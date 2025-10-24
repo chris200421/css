@@ -1,0 +1,51 @@
+.container{
+    width: 100%;
+    padding: 50px;
+}
+.child-1{
+    width: 250px;
+    display: inline-block;
+    margin: 20px;
+}
+img{
+    width: 100%;
+}
+.child-2{
+    width: 250px;
+    display: inline-block;
+    margin: 20px;
+
+}
+.child-3{
+    display: inline-block;
+    width: 250px;
+    margin: 20px;
+
+}
+.child-4{
+    width: 250px;
+    display: inline-block;
+    margin: 20px;
+}
+.child-5{
+    display: inline-block;
+    width: 250px;
+    margin: 20px;
+}
+.child-6{
+    display: inline-block;
+    width: 250px;
+    margin: 20px;
+}
+.child-7{
+    display: inline-block;
+    width: 250px;
+    margin: 20px;
+    
+}
+.child-8{
+    display: inline-block;
+    width: 250px;
+    margin: 20px;
+   
+}
